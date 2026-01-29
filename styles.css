@@ -275,6 +275,10 @@ ul {
     font-size: 0.95rem;
 }
 
+.core-services .btn {
+    margin-top: 2rem;
+}
+
 /* Grid lists */
 .grid-list {
     display: grid;
